@@ -1,0 +1,65 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2022-05-26T00:08:51.298-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "KDE.KDEConnect"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Thunderbird"
+				},
+				{
+					"PackageIdentifier" : "Notepad++.Notepad++"
+				},
+				{
+					"PackageIdentifier" : "Rufus.Rufus"
+				},
+				{
+					"PackageIdentifier" : "Spotify.Spotify"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "Waterfox.Waterfox"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Nvidia.PhysX"
+				},
+				{
+					"PackageIdentifier" : "TechPowerUp.NVCleanstall"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.2.10751"
+}
