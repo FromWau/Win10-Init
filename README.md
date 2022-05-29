@@ -5,16 +5,16 @@ Script does:
 * Import apps via Winget
 
 Script is indendet for a folder structure like this:
-C:\Users\<username>:.
-├───Desktop
-├───Documents
-├───Music
-├───Pictures
-└───Videos
+C:\Users\<username>:. 
+├───Desktop 
+├───Documents 
+├───Music 
+├───Pictures 
+└───Videos 
 
-D:\Libary:.
-├───Desktop
-├───Documents
-├───Music
-├───Pictures
-└───Videos
+D:\Libary:. 
+├───Desktop 
+├───Documents 
+├───Music 
+├───Pictures 
+└───Videos 
